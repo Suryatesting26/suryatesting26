@@ -8,7 +8,7 @@ public class Datatypetest {
 
         System.out.println(a);
         System.out.println(b);
-        System.out.println(c);printing statements
+        System.out.println(c);  /////printing statements
 
     }
 }
